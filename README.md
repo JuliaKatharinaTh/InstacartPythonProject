@@ -1,5 +1,5 @@
 # InstacartPythonProject
-![Rockbuster Stealth Logo](https://github.com/JuliaKatharinaTh/RockbusterSQLProject/blob/main/RSLogo.png?raw=true)
+![Rockbuster Stealth Logo](https://github.com/JuliaKatharinaTh/InstacartPythonProject/blob/main/Instacart%20Logo.png?raw=true)
 
 ## 🎯 Objective 
 Instacart is an American company that operates as a same-day grocery delivery and pick-up service in the U.S. and Canada. It allows users to order groceries and other household items from participating retailers with the convenience of online shopping and have them delivered to their doorstep or prepared for pickup at the store. 
